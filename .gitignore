@@ -1,0 +1,12 @@
+# KiCad temporary project files
+*.kicad_prl
+*-backups/
+_autosave-*
+*.bak
+*.bck
+fp-info-cache
+*.kicad_pcb-bak
+*.kicad_sch-bak
+~*.kicad_pcb
+~*.kicad_sch
+*.net
